@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Jaula","order":2,"parentId":2,"scrollX":651,"scrollY":408},
+{"id":2,"expanded":true,"name":"Vila de Tralhak","order":1,"parentId":0,"scrollX":659,"scrollY":376},
+{"id":3,"expanded":false,"name":"Parte superior da vila","order":3,"parentId":2,"scrollX":651,"scrollY":895},
+{"id":4,"expanded":true,"name":"Neveria","order":4,"parentId":0,"scrollX":1129.7142857142856,"scrollY":644.5714285714286},
+{"id":5,"expanded":false,"name":"Passo Retumbante","order":5,"parentId":4,"scrollX":976.5,"scrollY":1146},
+{"id":6,"expanded":false,"name":"Caminho para a clareira","order":6,"parentId":4,"scrollX":781.1999999999999,"scrollY":876},
+{"id":7,"expanded":false,"name":"Clareira de Termas","order":7,"parentId":4,"scrollX":781.1999999999999,"scrollY":508.79999999999995},
+{"id":8,"expanded":true,"name":"Valar","order":8,"parentId":0,"scrollX":790.8,"scrollY":451.2},
+{"id":9,"expanded":false,"name":"Caminho Norte de Valar","order":9,"parentId":8,"scrollX":710,"scrollY":401},
+{"id":10,"expanded":true,"name":"Dallaria","order":10,"parentId":8,"scrollX":651,"scrollY":1195},
+{"id":11,"expanded":false,"name":"Casa de Kaylin","order":11,"parentId":10,"scrollX":659,"scrollY":376}
+]

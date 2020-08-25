@@ -1,0 +1,92 @@
+Skill 1 Atacar: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Ataque Contínuo: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Ataque Duplo: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Ataque Triplo: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 Sopro de Fogo: Damage Formula: a.atk
+Skill 9 Sopro de Gelo: Damage Formula: a.atk
+Skill 10 Choque: Damage Formula: a.atk
+Skill 21 Ataque Preciso: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 Sugar Sangue: Damage Formula: a.atk * 2 - b.def
+Skill 24 Meditação: Damage Formula: b.mhp / 4
+Skill 26 Cura: Damage Formula: 250 + a.mat
+Skill 27 Cura II: Damage Formula: 1000 + a.mat * 2
+Skill 28 Cura III: Damage Formula: 4000 + a.mat * 4
+Skill 29 Recuperação: Damage Formula: 250 + a.mat
+Skill 30 Recuperação II: Damage Formula: 1000 + a.mat * 2
+Skill 33 Estimular: Damage Formula: b.mhp / 10
+Skill 34 Estimular II: Damage Formula: b.mhp / 2
+Skill 49 Drenar Vida: Damage Formula: 200 + a.mat * 4 - b.mdf * 2
+Skill 50 Drenar Mana: Damage Formula: 20 + a.mat - b.mdf * 0.5
+Skill 51 Fogo: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 52 Fogo II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 53 Incêndio: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 54 Incêndio II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 Gelo: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 56 Gelo II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 57 Nevasca: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 58 Nevasca II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 59 Trovão: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 60 Trovão II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 61 Tempestade: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 62 Trovão II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 63 Água: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 64 Onda: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 65 Pedra: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 66 Terremoto: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 67 Vento: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 68 Furacão: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 69 Ataque Sagrado: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 70 Luz das Estrelas: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 71 Trevas: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 72 Escuridão: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 73 Explosão: Damage Formula: 300 + a.mat * 2
+Skill 74 Explosão Nuclear: Damage Formula: 300 + a.mat * 2
+Skill 80 Ataque Forte: Damage Formula: a.atk * 5 - b.def * 2
+Skill 81 Fender: Damage Formula: a.atk * 2 - b.def * 2
+Skill 83 Dança Frenética: Damage Formula: a.atk * 5 - b.def * 2
+Skill 84 Lâmina Giratória: Damage Formula: a.atk * 12 - b.def * 6
+Skill 85 Invesitda: Damage Formula: a.atk * 4 + a.def * 2 - b.def * 2
+Skill 88 Ataque das Sombra: Damage Formula: a.atk * 5
+Skill 89 Dança do Dragão: Damage Formula: a.atk * 12
+Skill 94 Ataque Frenético: Damage Formula: a.atk * 5 - b.def * 2
+Skill 95 Aura da Lâmina: Damage Formula: a.atk * 4 + a.mat * 3 - b.def - b.mdf
+Skill 99 Lâmina Radiante: Damage Formula: a.atk * 5 + a.mat * 5 - b.def - b.mdf
+Skill 100 Ataque de Chi: Damage Formula: a.atk * 4
+Skill 103 Retorno das Andorinhas: Damage Formula: a.atk * 3 - b.def * 2
+Skill 104 Ataque Fantasma: Damage Formula: a.atk * 4 - b.def * 2
+Skill 105 Ruptura de Arma: Damage Formula: a.atk * 4 - b.def * 2
+Skill 106 Ruptura de Armadura: Damage Formula: a.atk * 4 - b.def * 2
+Skill 108 Tiro Triplo: Damage Formula: a.atk * 4 + a.agi * 2 - b.def * 2
+Skill 109 Mil Flechas: Damage Formula: a.atk * 3 + a.agi * 2 - b.def * 2
+Skill 113 Ataque Sortudo: Damage Formula: a.atk * 3 + a.luk * 4 - b.def * 2
+Skill 114 Ataque Aleatório: Damage Formula: a.atk * 2 + a.luk * 4 - b.def * 2
+Skill 117 Castigo de Deus: Damage Formula: a.mat * 5 - b.mdf
+Skill 122 Torrente Mágico: Damage Formula: b.mmp * 0.5
+Map 3 Parte superior da vila - Event 7 Orc Espião Parado (19,28) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox_d?(@event_id, 2)
+Map 3 Parte superior da vila - Event 12 Orc Espião Parado (17,17) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox_d?(@event_id, 3)
+Map 3 Parte superior da vila - Event 13 Orc Espião Movimento (3,25) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox_d?(@event_id, 2)
+Map 3 Parte superior da vila - Event 14 Orc Espião Movimento (25,24) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox_d?(@event_id, 2)
+Map 3 Parte superior da vila - Event 15 Orc Espião Parado (8,14) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox_d?(@event_id, 3)
+Map 3 Parte superior da vila - Event 25 Orc Espião Parado (14,14) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox_d?(@event_id, 2)
+Map 5 Passo Retumbante - Event 11 EV011 (15,28) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id)
+Map 5 Passo Retumbante - Event 11 EV011 (15,28) - Page 2 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id, 5)
+Map 5 Passo Retumbante - Event 11 EV011 (15,28) - Page 2 Line 10:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 11 EV011 (15,28) - Page 2 Line 12:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 12 EV012 (12,37) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id)
+Map 5 Passo Retumbante - Event 12 EV012 (12,37) - Page 2 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id, 5)
+Map 5 Passo Retumbante - Event 12 EV012 (12,37) - Page 2 Line 10:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 12 EV012 (12,37) - Page 2 Line 12:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 13 EV013 (13,17) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id)
+Map 5 Passo Retumbante - Event 13 EV013 (13,17) - Page 2 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id, 5)
+Map 5 Passo Retumbante - Event 13 EV013 (13,17) - Page 2 Line 10:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 13 EV013 (13,17) - Page 2 Line 12:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 14 EV014 (14,8) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id)
+Map 5 Passo Retumbante - Event 14 EV014 (14,8) - Page 2 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id, 5)
+Map 5 Passo Retumbante - Event 14 EV014 (14,8) - Page 2 Line 10:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 14 EV014 (14,8) - Page 2 Line 12:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 15 EV015 (1,6) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id)
+Map 5 Passo Retumbante - Event 15 EV015 (1,6) - Page 2 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id, 5)
+Map 5 Passo Retumbante - Event 15 EV015 (1,6) - Page 2 Line 10:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 5 Passo Retumbante - Event 15 EV015 (1,6) - Page 2 Line 12:  - Conditional Branch script call: Proxy.inprox?(@event_id, 1)
+Map 6 Caminho para a clareira - Event 2 EV002 (4,13) - Page 1 Line 1:  - Conditional Branch script call: Proxy.inprox?(@event_id, 3)
+Map 6 Caminho para a clareira - Event 2 EV002 (4,13) - Page 1 Line 4:  - Move Route Script call: turn_toward_character($game_map.events[002])
