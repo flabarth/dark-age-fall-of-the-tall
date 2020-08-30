@@ -23,5 +23,5 @@ var $plugins =
 {"name":"SRD_SellShop","status":true,"description":"Allows creation of a shop that can be used to sell certain items at special prices.","parameters":{"Price Multiplier":"1"}},
 {"name":"SRD_SuperToolsEngine","status":false,"description":"The heart of all maker-style plugins; it adds a playtesting editor that can be opened with F12.","parameters":{"Connect Editor":"true","Auto Open Window":"false","Auto Move Window":"true","Menu Editor Exempt List":"[\"Window_BattleLog\",\"Window_MapName\"]"}},
 {"name":"BattleResultsPopup","status":true,"description":"Displays a battle results window instead of text messages.","parameters":{}},
-{"name":"Main","status":true,"description":"","parameters":{}}
+{"name":"Main","status":false,"description":"","parameters":{}}
 ];
